@@ -1,0 +1,6 @@
+				http://www.geeksforgeeks.org/binomial-heap-2/
+				http://www.geeksforgeeks.org/reverse-a-linked-list/
+				http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/
+				http://www.geeksforgeeks.org/knapsack-problem/
+				http://www.geeksforgeeks.org/sparse-table/
+				http://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/

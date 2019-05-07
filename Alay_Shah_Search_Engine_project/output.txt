@@ -1,0 +1,24 @@
+Enter the word you want to search : 
+range
+http://www.geeksforgeeks.org/sparse-table/ has range 13 times
+Enter the word you want to search : 
+comments
+http://www.geeksforgeeks.org/binomial-heap-2/ has comments 2 times
+http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/ has comments 2 times
+http://www.geeksforgeeks.org/knapsack-problem/ has comments 2 times
+http://www.geeksforgeeks.org/sparse-table/ has comments 2 times
+http://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/ has comments 2 times
+http://www.geeksforgeeks.org/reverse-a-linked-list/ has comments 1 times
+Enter the word you want to search : 
+nodes
+http://www.geeksforgeeks.org/binomial-heap-2/ has nodes 5 times
+http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/ has nodes 3 times
+Enter the word you want to search : 
+in
+Enter the word you want to search : 
+or
+Enter the word you want to search : 
+the
+Enter the word you want to search : 
+for
+Enter the word you want to search : 
